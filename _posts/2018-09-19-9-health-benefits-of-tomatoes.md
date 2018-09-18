@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 9 Health Benefits of Tomatoes
 ---
 9 Health Benefits of Tomatoes
