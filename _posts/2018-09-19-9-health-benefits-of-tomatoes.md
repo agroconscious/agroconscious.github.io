@@ -2,6 +2,9 @@
 layout: post
 published: true
 title: 9 Health Benefits of Tomatoes
+tags:
+  - Health
+subtitle: Plus why you need tomatoes if you smoke!
 ---
 9 Health Benefits of Tomatoes
 =======================
@@ -71,4 +74,4 @@ With healthy soil and a good source of water, you can grow your tomatoes anywher
 
 * Kaduna State
 
-Each of these states are well known for tomatoes farming in Nigeria with local seed varieties to match, Thinking of starting out your own tomato farming business? All you need are the right equipment, seeds, conditions and you're set. 
+Each of these states are well known for tomatoes farming in Nigeria with local seed varieties to match, Thinking of starting out your own tomato farming business? All you need are the right equipment, seeds, conditions and you're set.
