@@ -92,7 +92,7 @@ After a month or five weeks of planting your tomato in the nursery then you can 
 
 - On how best to transplant your tomatoes; You should open up the soil of where you intend to transplant with a little bit of small wood, put in the seedling in to the hole and cover it with loose soil. The soil where you would like to transplant your plant ought to be moist.
 
-== Take note; after transplant, the seedbeds ought to be irrigated frequently after sowing and before seedlings reach an elevation of 5 to 7 cm. Do not leave it like that just, or else, it will die. ==
+> Take note; after transplant, the seedbeds ought to be irrigated frequently after sowing and before seedlings reach an elevation of 5 to 7 cm. Do not leave it like that just, or else, it will die.
 
 ### Irrigate Your Tomato Farm
 if you want to obtain the best of your crop; make sure you source your plant with more than enough water.  Through the dry season (they are the critical instances), of October and February, be sure you supply your crop with enough water continuously, 3-7 day’s interval (based on the kind of soil). Understand that you shouldn’t place too much drinking water on it to avoid them from cracking.
