@@ -33,15 +33,15 @@ The soil should be a properly managed clay loam or sandy loam. It should be free
 
 To get the very best from your own tomato farming you need to use the right varieties. The various varieties grown in the world are;
 
-· Plum tomatoes
-· Cherry tomatoes
-· Grapes tomatoes
-· Slicing or Globe tomatoes
-· Campari tomatoes
-· Tom berries tomatoes
-· Oxheart tomatoes
-· Beefsteak tomatoes
-· Pear tomatoes
+- Plum tomatoes
+- Cherry tomatoes
+- Grapes tomatoes
+- Slicing or Globe tomatoes
+- Campari tomatoes
+- Tom berries tomatoes
+- Oxheart tomatoes
+- Beefsteak tomatoes
+- Pear tomatoes
 
 However, in Nigeria the types of tomatoes could be categorized with their shapes, local names and location of cultivation. They are;
 
