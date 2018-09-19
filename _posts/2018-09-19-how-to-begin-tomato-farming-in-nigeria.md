@@ -14,7 +14,6 @@ This article is divided into the following parts
 - Planting
 - Harvesting
 
-
 **Preparation**
 -----
 
