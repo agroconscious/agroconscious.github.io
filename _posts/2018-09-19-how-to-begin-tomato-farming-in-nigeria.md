@@ -67,7 +67,8 @@ Hausa | Kano | Oval
 
 [Source Of Table Above](https://www.africabusinessclassroom.com/wp-content/uploads/2017/05/Tomatoe-Farming-In-Nigeria.pdf)
 
-> If you’re wondering what variety to pick for your tomato farming, then you can go for the recommended type, which is Roma tomato. It’s plum because of its slender and strong nature and is commonly used in Nigeria, growing suitably in any climate.
+{: .box-warning}
+If you’re wondering what variety to pick for your tomato farming, then you can go for the recommended type, which is Roma tomato. It’s plum because of its slender and strong nature and is commonly used in Nigeria, growing suitably in any climate.
 
 ![Roma Tomatoes](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/TomateTrossRomanaTyp.jpg/800px-TomateTrossRomanaTyp.jpg  "Roma Tomatoes")
  
