@@ -6,9 +6,6 @@ tags:
   - Health
 subtitle: Plus why you need tomatoes if you smoke!
 ---
-9 Health Benefits of Tomatoes
-=======================
-
 One thing lovable about our Nigerian dishes is how well tomatoes seem to work into several of them. Either we slice and dice them, or we grind them into a pulpy or smooth texture (along with other things like peppers and onions), tomatoes definitely have a role in our diet. But besides just being good for cooking and adding flavor, tomatoes are chockful of health benefits.
 
 >A lot of people say the tomato is the world healthiest fruit, let's look at 9 tomatoes benefits today, you may call it a fruit or veggie. It's your decision.
