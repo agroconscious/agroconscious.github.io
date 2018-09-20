@@ -6,9 +6,6 @@ subtitle: And all the local tomato varieties.
 tags:
   - guides
 ---
-How To Begin Tomato farming in Nigeria
-===================
-
 Setting up a tomato farm in Nigeria is not as difficult as it would seem, just like a couple of other fruits with simple enough management. It gets as basic as putting the seeds into the ground and covering it up with soil. In this post, we will walk you through the process of planting your very own tomato farm. This guide is meant to help you get the tomato farm you desire so that you can reap the benefits of tomato farming.
 
 This article is divided into the following parts
