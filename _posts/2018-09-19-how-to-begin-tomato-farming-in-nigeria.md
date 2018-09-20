@@ -27,7 +27,7 @@ It is necessary to carefully decide on great soil for planting your tomatoes. He
 
 The soil should be a properly managed clay loam or sandy loam. It should be free from hardpan, keep in mind that the very best tomatoes are obtained from deep, well-drained loam. Also note that the soil needs to be abundant with organic matter and should be rich in plant nutrients, with a pH of 6 or 7.
  
-> In preparing your land for the tomato farming, the soil ought to be loose with great tilt. Clear the soil of weeds and plough 1-3 times if it is heavy to make it lighter. In any case where the soil of your land is acidic, adding an appropriate amount of lime will help to either reduce or level the pH of the soil.
+> In preparing your land for the tomato farming, the soil ought to be loose with great till. Clear the soil of weeds and plough 1-3 times if it is heavy to make it lighter. In any case where the soil of your land is acidic, adding an appropriate amount of lime will help to either reduce or level the pH of the soil.
 
 ### Pick the best tomato varieties
 
@@ -43,7 +43,7 @@ To get the very best from your own tomato farming you need to use the right vari
 - Beefsteak tomatoes
 - Pear tomatoes
 
-However, in Nigeria the types of tomatoes could be categorized with their shapes, local names and location of cultivation. They are;
+In Nigeria the types of tomatoes could be categorized with their shapes, local names and location of cultivation. They are;
 
 Variety | Place of Cultivation |Tomatoes Shape
 | :---- |:-----
@@ -76,7 +76,7 @@ Hausa | Kano | Oval
 The best way to plant your tomato is by first planting it in the nursery, afterwards transplanting to the field.
 That is done by covering them with a [polyethylene sheet](https://www.facebook.com/Paivkaf-Agrovet-Enterprise-107251979950185/posts) to avoid weed growth, fungus, nematodes, pests, and bacteria. You should look at applying organic fertilizer and manure before planting. Understand that your seed bed ought to be 55-65cm wide, 5-6cm lengthy and 20-25cm high.
 
-- On how best to plant your tomatoes; tomato planting can be carried out around March/April through the starting of raining period. Plant by putting the tomatoes seeds on the soil and cover with 25 % inch level of soil then press it together with your hands or handle (you might cover it with dried out grasses if you would like. This is to avoid loss of moisture).
+- On how best to plant your tomatoes; tomato planting can be carried out around March/April through the starting of raining period. Plant by putting the tomatoes seeds on the soil and cover with 25% inch level of soil then press it together with your hands or handle (you might cover it with dried out grasses if you like. This is to avoid loss of moisture).
 
 - After planting, you will notice them growing within the next 5-7 days (after that you can take away the dry grasses to permit for proper growth) then let it grow for about a month or 5 weeks before transplanting to the field.
 
