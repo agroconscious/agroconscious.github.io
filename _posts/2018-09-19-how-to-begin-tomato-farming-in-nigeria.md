@@ -2,6 +2,9 @@
 layout: post
 published: true
 title: How To Begin Tomato farming in Nigeria
+subtitle: And all the local tomato varieties.
+tags:
+  - guides
 ---
 How To Begin Tomato farming in Nigeria
 ===================
