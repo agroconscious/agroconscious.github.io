@@ -30,7 +30,8 @@ It is necessary to carefully decide on great soil for planting your tomatoes. He
 
 The soil should be a properly managed clay loam or sandy loam. It should be free from hardpan, keep in mind that the very best tomatoes are obtained from deep, well-drained loam. Also note that the soil needs to be abundant with organic matter and should be rich in plant nutrients, with a pH of 6 or 7.
  
-> In preparing your land for the tomato farming, the soil ought to be loose with great till. Clear the soil of weeds and plough 1-3 times if it is heavy to make it lighter. In any case where the soil of your land is acidic, adding an appropriate amount of lime will help to either reduce or level the pH of the soil.
+{: .box-warning}
+In preparing your land for the tomato farming, the soil ought to be loose with great till. Clear the soil of weeds and plough 1-3 times if it is heavy to make it lighter. In any case where the soil of your land is acidic, adding an appropriate amount of lime will help to either reduce or level the pH of the soil.
 
 ### Pick the best tomato varieties
 
@@ -84,7 +85,8 @@ That is done by covering them with a [polyethylene sheet](https://www.facebook.c
 
 - After planting, you will notice them growing within the next 5-7 days (after that you can take away the dry grasses to permit for proper growth) then let it grow for about a month or 5 weeks before transplanting to the field.
 
-> Your Tomato Nursery can be achieved on a little farm or on your own garden; for those who have one. Ensure that the soil is certainly healthy and looked after well.
+{: .box-warning}
+Your Tomato Nursery can be achieved on a little farm or on your own garden; for those who have one. Ensure that the soil is certainly healthy and looked after well.
 
 ![Tomato plants growing in garbage cans](https://upload.wikimedia.org/wikipedia/commons/c/cf/Tomato_plants_growing_July_2013_in_garbage_cans.JPG 'Tomato plants growing in garbage cans')
 
@@ -96,7 +98,8 @@ After a month or five weeks of planting your tomato in the nursery then you can 
 
 - On how best to transplant your tomatoes; You should open up the soil of where you intend to transplant with a little bit of small wood, put in the seedling in to the hole and cover it with loose soil. The soil where you would like to transplant your plant ought to be moist.
 
-> Take note; after transplant, the seedbeds ought to be irrigated frequently after sowing and before seedlings reach an elevation of 5 to 7 cm. Do not leave it like that just, or else, it will die.
+{: .box-warning}
+Take note; after transplant, the seedbeds ought to be irrigated frequently after sowing and before seedlings reach an elevation of 5 to 7 cm. Do not leave it like that just, or else, it will die.
 
 ### Irrigate Your Tomato Farm
 if you want to obtain the best of your crop; make sure you source your plant with more than enough water.  Through the dry season (they are the critical instances), of October and February, be sure you supply your crop with enough water continuously, 3-7 day’s interval (based on the kind of soil). Understand that you shouldn’t place too much drinking water on it to avoid them from cracking.
