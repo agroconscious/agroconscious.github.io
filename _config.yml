@@ -44,7 +44,7 @@ title-img: /img/agro.png
 navbar-col: "#FFB72A"
 navbar-text-col: "#404040"
 navbar-children-col: "#FFB72A"
-page-col: "#e8e1e1"
+page-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#BC2C1A"
 footer-col: "#F5F5F5"
@@ -103,7 +103,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-126260005-1"
+gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-126260005-1"
