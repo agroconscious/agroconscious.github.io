@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags:
-  - Guides
+  - guides
 subtitle: How expensive is it?
 ---
 One thing about [tomato paste](http://www.tomatojos.net/08-tomato-paste-processing/)  is that it needs a lot of tomatoes to make. Tomatoes are about 95% water and 5% solids/sugar. The next time you reach for that can of tomato puree, check the concentrate percentage. Probably, the label will read *“dual concentrate”* and the merchandise will contain about 28% solid materials (also called Brix). So if you’re making paste, you shall need 5.6kgs of tomatoes with a 5% sugars content to make 1kg of tomato paste at 28% Brix.
