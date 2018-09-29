@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+tags:
+  - Guides
+subtitle: How expensive is it?
 ---
 One thing about [tomato paste](http://www.tomatojos.net/08-tomato-paste-processing/)  is that it needs a lot of tomatoes to make. Tomatoes are about 95% water and 5% solids/sugar. The next time you reach for that can of tomato puree, check the concentrate percentage. Probably, the label will read *“dual concentrate”* and the merchandise will contain about 28% solid materials (also called Brix). So if you’re making paste, you shall need 5.6kgs of tomatoes with a 5% sugars content to make 1kg of tomato paste at 28% Brix.
 
@@ -9,7 +13,7 @@ There are two types of tomato paste - **Hot Break and Cold Break** - and they're
 
 Tomato paste processing need a continual way to obtain fresh tomatoes, which is quite crucial for the tomato control series to operate at maximum capacity constantly. If capacity drops below a certain threshold, or worse even, if paste can't be made at all in a day, then the process needs to halt while all the equipment is cleaned properly. 
 
-###**Here are the steps required for tomato paste processing.**
+**Here are the steps required for tomato paste processing.**
 
 - Getting: Fresh tomatoes in the trucks are taken to the offloading area. An operator, utilizing a special tube, sends a huge quantity of water into the pickup truck, so that the tomatoes can flow right out of the opening at the end of the trailer. Using water allows the tomatoes to be moved without damage.
 
