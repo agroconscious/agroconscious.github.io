@@ -19,6 +19,10 @@ title: Agroconscious
 # Short description of your site
 description: An agricultural focused blog!
 
+# Sitemap Generator
+plugins: 
+  - jekyll-sitemap
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
